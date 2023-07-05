@@ -11,12 +11,6 @@
 
 }
 
-.ln-logo{
-  align-content: center;
-  display: block;
-  margin: 0 auto;
-  width: 30%;
-}
 
 .ln-nav{
  max-width: 90%;
@@ -183,48 +177,6 @@ padding-bottom: 10%;
   padding-bottom: 2%;
   font-weight: 700;
 }
-
-
-/* review */
-
-
-
-.ln-review{
-  background: #353535;
-  padding-bottom: 5%;
-
-}
-
-.ln-review::after{
-  content:" ";
-  display: block;
-  clear: both;
-}
-
-.ln-revcon{
-  float: left;
-  padding-left: 5%;
-  max-width: 65%;
-}
-
-.ln-revcon .b{
-  padding: 3% 0 3% 5%;
-  font-size: 2vw;
-  font-weight: 700;
-}
-
-.ln-revcon p{
-  font-size: 1.5vw;
-  color: #fff;
-}
-
-.ln-rev{
-  padding: 3% 0 0% 5%;
- max-width: 70%;
-
-}
-
-
 
 
 /* Make reservation */
