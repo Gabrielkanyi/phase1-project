@@ -1,7 +1,7 @@
 # phase1-project LYNRA BOOKINGS
 This project was authored by Gabriel Kanyi.
 ## project link
-http://127.0.0.1:5501/
+https://gabrielkanyi.github.io/phase1-project/
 
 ## project
 The project is an online hotel booking web whereby you can book exclusive hotels.
